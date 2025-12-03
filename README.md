@@ -1,4 +1,4 @@
-# Proyecto_ASIR2_ManuelDominguez
+# Proyecto_ASIR2_FranciscoJavierPerezHeredia
 
 **Diseño de Infraestructura Empresarial Segura y Automatizada**
 
@@ -11,7 +11,7 @@
 ![Escalabilidad y Cloud](https://img.shields.io/badge/Infraestructura-Cloud%20%26%20Escalable-purple)
 
 
-## Nombre del alumno:
+## Nombre del alumno: Francisco Javier Perez Heredia
 ## Título del proyecto:
 
 ## Índice del proyecto
