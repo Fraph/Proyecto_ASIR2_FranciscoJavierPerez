@@ -11,29 +11,9 @@
 
 ## Situacion actual del sector tecnologico en sevilla
 
-En Sevilla el sector tecnologico ya no es tan solo una promesa a futuro, sino que ya funciona como un pilar economico consolidado. Segun datos del **[informe de resultados del techpark en 2024](/UD1/documentos/Informe-Resultados_Sevilla-TechPark_DEF.pdf)**, cerrando el año con una facturacion record de **4.850 millones de euros**, lo que implica un crecimiento del 8% respecto al año anterior.
+El sector tecnológico en Sevilla se ha consolidado como un pilar económico fundamental, evidenciado por los resultados del TechPark en 2024, que cerró con una facturación récord de 4.850 millones de euros (un 8% más que el año anterior). Aunque el ritmo de crecimiento muestra una ligera estabilización frente a ejercicios previos, el mercado demuestra una madurez robusta que se traduce directamente en empleo: el parque cuenta ya con 31.667 trabajadores (+7,2%) y 144 empresas de alta innovación, garantizando un entorno de trabajo cualificado y en constante expansión.
 
-Aunque podriamos decir que el indice de crecimiento en años anteriores fue mayor, es decir, que la mejora de 22-23 fue mayor a la del 23-24, esto implica mas bien una estabilizacion del sector y no necesariamente algo negativo.
-
-
-
-## Demanda de empleo y especializacion
-
-Lo mas relevante, seguramente, para un estudiante de ASIR y futuro tecnico superior, es el empleo, y por suerte este no hace mas que crecer. A finales de 2024, el tech park de sevilla emnplea a **31.667 trabajadores** mas, un incremento de un **7,2% anual**. Ademas el ecosistema de empresas en sevilla ha alcanzado las **144 empresas** de alta innovacion registradas, generando empleo cualificado y estable.
-
-La especializacion 
-
-* **94 empresas especializadas** puramente en TIC.
-* Una facturación específica de **995 millones de euros**.
-* Una importante empleabilidad, con **11.967 profesionales**.
-
-
-## Necesidades detectadas
-
-1.  **Administración de infraestructuras críticas:** Para soportar la carga de trabajo de las casi 600 empresas del parque tecnológico.
-2.  **Seguridad en redes corporativas:** Vital para proteger los activos de un sector que crece a doble dígito.
-
-3.  **Virtualización y Cloud:** Tecnologías obligatorias para las 251 *startups* sevillanas que requieren despliegues rápidos y flexibles.
+Específicamente en el ámbito TIC, vital para el perfil ASIR, operan 94 empresas especializadas que facturan 995 millones de euros y emplean a 11.967 profesionales. Este denso tejido empresarial, compuesto por casi 600 compañías y 251 startups, genera necesidades críticas urgentes que justifican este proyecto: administración de infraestructuras para soportar la carga de trabajo, ciberseguridad avanzada para proteger los activos corporativos y soluciones de virtualización y Cloud para permitir despliegues ágiles y flexibles.
 - [ ] [**2. Selección de la empresa o contexto de trabajo**](p2.md)
 - [ ] [**3. Identificación de necesidades tecnológicas**](p3.md)
 - [ ] [**4. Oportunidades y viabilidad del proyecto**](p4.md)
