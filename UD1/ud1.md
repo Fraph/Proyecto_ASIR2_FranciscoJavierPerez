@@ -38,7 +38,7 @@ El problema de fondo es que el software que utilizaban para calcular el stock er
 Como consecuencia de esto, la forma de trabajar del equipo acababa siendo manual y poco eficiente. Para evitar quedarnos a cero, los técnicos nos veíamos obligados a pedir mucho más material del que realmente hacía falta, inflando los pedidos "por si acaso" el sistema volvía a fallar en sus cálculos. Al final, esta falta de fiabilidad en la herramienta provocaba que o bien faltaran portátiles cuando más se necesitaban, o bien se acumulara stock innecesario en el almacén por miedo a la escasez, sin que hubiese un control real de lo que teníamos.
 
 
-## **4. Oportunidades y viabilidad del proyecto**](p4.md)
+## **4. Oportunidades y viabilidad del proyecto**
 
 Tras detectar la ineficiencia en la gestión del stock, la solución propuesta consiste en la implementación de un sistema centralizado de Gestión de Activos de TI (ITAM) basado en software de código abierto (como *Snipe-IT* o *GLPI*), alojado en un servidor local de la delegación de Sevilla.
 
@@ -68,8 +68,6 @@ A continuación, se presenta la estimación económica para la puesta en marcha:
 
 ##### Conclusión de Viabilidad
 El coste estimado de **2.200 €** es marginal comparado con las pérdidas que genera tener a empleados sin equipo o el sobrecoste de comprar portátiles innecesarios. Si el sistema evita la compra errónea de solo 2 o 3 portátiles de gama alta al año, **el proyecto se amortiza solo en los primeros meses**, lo que confirma su absoluta viabilidad económica.
-
-- [ ] [**5. Obligaciones legales y normativas**](p5.md)
 
 ## 5. Cumplimiento legal y normativo
 
