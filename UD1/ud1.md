@@ -13,7 +13,8 @@
 
 El sector tecnológico en Sevilla se ha consolidado como un pilar económico fundamental, evidenciado por los resultados del TechPark en 2024, que cerró con una facturación récord de 4.850 millones de euros (un 8% más que el año anterior). Aunque el ritmo de crecimiento muestra una ligera estabilización frente a ejercicios previos, el mercado demuestra una madurez robusta que se traduce directamente en empleo: el parque cuenta ya con 31.667 trabajadores (+7,2%) y 144 empresas de alta innovación, garantizando un entorno de trabajo cualificado y en constante expansión.
 
-Específicamente en el ámbito TIC, vital para el perfil ASIR, operan 94 empresas especializadas que facturan 995 millones de euros y emplean a 11.967 profesionales. Este denso tejido empresarial, compuesto por casi 600 compañías y 251 startups, genera necesidades críticas urgentes que justifican este proyecto: administración de infraestructuras para soportar la carga de trabajo, ciberseguridad avanzada para proteger los activos corporativos y soluciones de virtualización y Cloud para permitir despliegues ágiles y flexibles.
+Específicamente en el ámbito TIC, vital para el perfil ASIR, operan 94 empresas especializadas que facturan 995 millones de euros y emplean a 11.967 profesionales. 
+
 ## **2. Selección de la empresa o contexto de trabajo**
 > En esta parte eligire la empresa sobre la que hablare el resto del trabajo, describiendola.
 
